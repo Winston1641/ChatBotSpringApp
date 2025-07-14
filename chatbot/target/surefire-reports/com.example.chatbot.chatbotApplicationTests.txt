@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.chatbot.chatbotApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.320 s -- in com.example.chatbot.chatbotApplicationTests
